@@ -1,0 +1,62 @@
+[
+{
+  "id": 0,
+  "name": "Józsi",
+  "age": 24,
+  "haircolor": "brown"
+},
+{
+  "id": 1,
+  "name": "Béla",
+  "age": 34,
+  "haircolor": "black"
+},
+{
+  "id": 2,
+  "name": "Ernő",
+  "age": 55,
+  "haircolor": "none"
+},
+{
+  "id": 3,
+  "name": "Erzsi",
+  "age": 41,
+  "haircolor": "brown"
+},
+{
+  "id": 4,
+  "name": "Angéla",
+  "age": 20,
+  "haircolor": "blonde"
+},
+{
+  "id": 5,
+  "name": "Jenő",
+  "age": 30,
+  "haircolor": "grey"
+},
+{
+  "id": 6,
+  "name": "Vajk",
+  "age": 64,
+  "haircolor": "white"
+},
+{
+  "id": 7,
+  "name": "Zoltán",
+  "age": 14,
+  "haircolor": "blonde"
+},
+{
+  "id": 8,
+  "name": "Zsombor",
+  "age": 4,
+  "haircolor": "brown"
+},
+{
+  "id": 9,
+  "name": "Kevin",
+  "age": 16,
+  "haircolor": "brown"
+}
+]
